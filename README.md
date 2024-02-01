@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate Data Science & Analytics projects
 - 📫 How to reach me:
   [https://www.linkedin.com/feed/](https://www.linkedin.com/in/waldelino-lange-b7063a2aa/)
-  E-mail: ing_wlange@outlook.com.ar
+
 - Skills:
 
 <!---
