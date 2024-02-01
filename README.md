@@ -50,9 +50,8 @@ Hi, I'm Waldelino!
     <a href="https://github.com/Walde106"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="https://github.com/Walde106"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <a href="https://github.com/Walde106"><img src=https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp"></a>
-    <a href="https://github.com/Walde106"><img src=https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white"></a>       
-    <a href="https://github.com/Walde106"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-</p>
+    <a href="https://github.com/Walde106">      
+    <a href="https://github.com/Walde106">
 </br>
 
 <Br>
@@ -61,4 +60,4 @@ Hi, I'm Waldelino!
 <h1 align="center">Skills I have! </h1>
 <Br>
 
-![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge) ![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)  ![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)  ![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)  ![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)  ![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)  ![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)  ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)  ![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)  ![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)  ![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)  ![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)  ![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)  ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
