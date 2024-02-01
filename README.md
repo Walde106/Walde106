@@ -24,7 +24,7 @@ Hi, I'm Waldelino!
 
 <p>
    <a href="https://github.com/Walde106"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-   <a href="https://github.com/Walde106"><img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1">
+   
 
 ### 🧰 Frameworks and Libraries
 
