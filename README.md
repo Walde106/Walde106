@@ -1,10 +1,10 @@
 Hi, I'm Waldelino!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 <pre>
-💻 I am a Data Science and Analytics student
-🔭 Working on Python and SQL projects applied to Forestry Engineering, Administration and Accounting
-🌱 Learn about algorithms applied to Machine Learning
-🌟 Main languages: Python, SQL
+🎓 Data Science and Analytics student
+🔍 Currently developing Python and SQL projects applied to Forestry Engineering, Business Administration and Accounting
+🤖 Passionate about learning and applying Machine Learning algorithms
+💡 Core skills: Python, SQL, QGIS
 </pre>
 <hr>
 
